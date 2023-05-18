@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "name": "Icy Ibis",
+  "avatar": "WyakQqqud4hcuGGaa",
+  "preferredColor": "red",
+  "language": "javascript.node",
+  "game": {
+    "owner": "bradenhs",
+    "repo": "game1"
+  },
+  "run": "node main.js"
+}
